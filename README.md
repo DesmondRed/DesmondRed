@@ -11,9 +11,9 @@ Building secure, scalable and data-driven systems from idea to deployment.
 
 - 🔭 I build **full-stack web & mobile applications** from scratch to production  
 - 🛡️ Cybersecurity professional focused on **threat detection, security analysis & penetration testing**  
-- 📊 Data Science undergraduate applying **data-driven decision making**  
-- 🎓 Final year undergraduate student at **Jomo Kenyatta University (JKUAT) pursuing Bachelor of Science in Data Science and Analytics)**  
-- ☁️ Cloud Architectural engineer (AWS | Azure | GCP)
+- 📊 Data Science & Analytics undergraduate applying **data-driven decision making**  
+- 🎓 Student at **Jomo Kenyatta University (JKUAT) pursuing Bachelor of Science in Data Science and Analytics**  
+- ☁️ Cloud Architectural Engineer (AWS | Azure | GCP)
 
 ---
 
@@ -85,17 +85,33 @@ Data Intelligence
 
 ## 📈 GitHub Analytics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> </p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DesmondRed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DesmondRed&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondRed&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DesmondRed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/DesmondRed/DesmondRed/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: (Add your link)   
