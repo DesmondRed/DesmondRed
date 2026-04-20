@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desmond Reddingtone</h1>
-<h3 align="center">Full Stack Engineer | Cybersecurity Specialist | Data Science Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Cybersecurity Specialist | Data Science & Analyst Enthusiast</h3>
 
 <p align="center">
 Building secure, scalable and data-driven systems from idea to deployment.
